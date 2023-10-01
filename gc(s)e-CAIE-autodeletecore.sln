@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gc(s)e-CAIE-autodeletecore", "gc(s)e-CAIE-autodeletecore.csproj", "{226BB3BB-8FAE-4E19-B505-BB9A621F31BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226BB3BB-8FAE-4E19-B505-BB9A621F31BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226BB3BB-8FAE-4E19-B505-BB9A621F31BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226BB3BB-8FAE-4E19-B505-BB9A621F31BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226BB3BB-8FAE-4E19-B505-BB9A621F31BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D80226-EAB1-487E-97F2-BD7809CE4649}
+	EndGlobalSection
+EndGlobal
